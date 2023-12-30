@@ -1,0 +1,35 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-polymarq-dev-14733-authRole",
+      "UnauthRoleArn": "arn:aws:iam::062291930064:role/amplify-polymarq-dev-14733-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::062291930064:role/amplify-polymarq-dev-14733-authRole",
+      "Region": "eu-west-2",
+      "DeploymentBucketName": "amplify-polymarq-dev-14733-deployment",
+      "UnauthRoleName": "amplify-polymarq-dev-14733-unauthRole",
+      "StackName": "amplify-polymarq-dev-14733",
+      "StackId": "arn:aws:cloudformation:eu-west-2:062291930064:stack/amplify-polymarq-dev-14733/ebc19820-7b74-11ee-9af0-026ba7581da0",
+      "AmplifyAppId": "d2m5giw890djze"
+    },
+    "categories": {
+      "auth": {
+        "polymarq": {}
+      },
+      "analytics": {
+        "polymarq": {},
+        "Pinpoint": {
+          "Name": "polymarq-dev",
+          "Id": "82de47b4b64b4138ba5fecc87cfdb085",
+          "Region": "eu-west-2"
+        }
+      },
+      "notifications": {
+        "Pinpoint": {
+          "Name": "polymarq-dev",
+          "Id": "82de47b4b64b4138ba5fecc87cfdb085",
+          "Region": "eu-west-2"
+        }
+      }
+    }
+  }
+}

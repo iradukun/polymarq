@@ -1,0 +1,21 @@
+{
+    "appName": "polymarq",
+    "roleName": "pinpointLambdaRolea880c357",
+    "cloudformationPolicyName": "cloudformationPolicya880c357",
+    "cloudWatchPolicyName": "cloudWatchPolicya880c357",
+    "pinpointPolicyName": "pinpointPolicya880c357",
+    "authPolicyName": "pinpoint_amplify_a880c357",
+    "unauthPolicyName": "pinpoint_amplify_a880c357",
+    "authRoleName": {
+        "Ref": "AuthRoleName"
+    },
+    "unauthRoleName": {
+        "Ref": "UnauthRoleName"
+    },
+    "authRoleArn": {
+        "Fn::GetAtt": [
+            "AuthRole",
+            "Arn"
+        ]
+    }
+}

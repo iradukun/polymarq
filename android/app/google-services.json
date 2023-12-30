@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291795128747",
+    "project_id": "polymarqinstance",
+    "storage_bucket": "polymarqinstance.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291795128747:android:7166cb0e536776e4ae82ee",
+        "android_client_info": {
+          "package_name": "com.example.polymarq"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4S2ycB7PqfJAlfq8MDiuOw0-m-XwHHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291795128747:android:fae40964e749a220ae82ee",
+        "android_client_info": {
+          "package_name": "com.example.polymarq_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBP4S2ycB7PqfJAlfq8MDiuOw0-m-XwHHE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

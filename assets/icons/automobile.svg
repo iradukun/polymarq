@@ -1,0 +1,9 @@
+<svg width="50" height="51" viewBox="0 0 50 51" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="25" cy="25.3818" r="24.5" fill="#FAFCFE" stroke="#E2E9FF"/>
+<path d="M16.25 24.7568H33.75" stroke="#4A4A68" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.5 29.7568V31.6318C32.5 31.7976 32.4342 31.9566 32.3169 32.0738C32.1997 32.191 32.0408 32.2568 31.875 32.2568H30C29.8342 32.2568 29.6753 32.191 29.5581 32.0738C29.4408 31.9566 29.375 31.7976 29.375 31.6318V29.7568" stroke="#4A4A68" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20.625 29.7568V31.6318C20.625 31.7976 20.5592 31.9566 20.4419 32.0738C20.3247 32.191 20.1658 32.2568 20 32.2568H18.125C17.9592 32.2568 17.8003 32.191 17.6831 32.0738C17.5658 31.9566 17.5 31.7976 17.5 31.6318V29.7568" stroke="#4A4A68" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M20 27.2568H21.25" stroke="#4A4A68" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M28.75 27.2568H30" stroke="#4A4A68" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M32.5 24.7568L30.1641 19.5068C30.1156 19.3958 30.0359 19.3012 29.9346 19.2346C29.8334 19.168 29.7149 19.1323 29.5938 19.1318H20.4062C20.2851 19.1323 20.1666 19.168 20.0654 19.2346C19.9641 19.3012 19.8844 19.3958 19.8359 19.5068L17.5 24.7568V29.7568H32.5V24.7568Z" stroke="#4A4A68" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

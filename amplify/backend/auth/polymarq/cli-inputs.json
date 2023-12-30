@@ -1,0 +1,12 @@
+{
+  "version": "1",
+  "cognitoConfig": {
+    "identityPoolName": "polymarq_identitypool_54363d81",
+    "allowUnauthenticatedIdentities": true,
+    "authSelections": "identityPoolOnly",
+    "resourceName": "polymarq",
+    "sharedId": "54363d81",
+    "serviceName": "Cognito",
+    "useDefault": "manual"
+  }
+}
